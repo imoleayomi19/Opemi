@@ -1,8 +1,28 @@
 
 body{
-    background: rgb(236, 214, 214);
-    text-align: center;
-    width: 600px;
-    height: fit-content;
+    background: url(./img/love.jpg);
+   display: inline;
+   text-align: center;
+   width: 400px;
+   }
+
+h4{
+    color: rgb(67, 211, 192);
+    font-size:xx-large;
+    background: rgba(184, 35, 35);
+    display: inline;
 }
 
+em{
+    font-size: large;
+    color: whitesmoke;
+}
+
+figcaption{
+    font-size: larger;
+    color: white;
+}
+
+footer{
+    color: whitesmoke;
+}
